@@ -23,7 +23,7 @@
     "rehype-parse": "^7.0.1",
     "stopword": "^1.0.1",
     "unified": "^9.0.0",
-    "unist-util-remove": "^2.0.0",
+    "unist-util-remove": "^3.1.0",
     "unist-util-visit": "^2.0.2",
     "vfile": "^4.1.0"
   },
