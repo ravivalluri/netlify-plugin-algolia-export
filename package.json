@@ -24,7 +24,7 @@
     "stopword": "^1.0.1",
     "unified": "^9.0.0",
     "unist-util-remove": "^2.0.0",
-    "unist-util-visit": "^2.0.2",
+    "unist-util-visit": "^4.0.0",
     "vfile": "^4.1.0"
   },
   "repository": {
