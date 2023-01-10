@@ -17,7 +17,7 @@
     "chalk": "^4.1.0",
     "globby": "^11.0.0",
     "hast-util-is-element": "^1.0.4",
-    "hast-util-to-nlcst": "^1.2.7",
+    "hast-util-to-nlcst": "^3.0.0",
     "nlcst-to-string": "^2.0.4",
     "parse-latin": "^4.2.1",
     "rehype-parse": "^7.0.1",
