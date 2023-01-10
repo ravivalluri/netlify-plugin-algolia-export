@@ -19,7 +19,7 @@
     "hast-util-is-element": "^1.0.4",
     "hast-util-to-nlcst": "^1.2.7",
     "nlcst-to-string": "^2.0.4",
-    "parse-latin": "^4.2.1",
+    "parse-latin": "^6.0.1",
     "rehype-parse": "^7.0.1",
     "stopword": "^1.0.1",
     "unified": "^9.0.0",
